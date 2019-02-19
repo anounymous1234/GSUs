@@ -14,7 +14,7 @@ http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Amazon_I
 ```
 $ cd data/movielens_1m
 $ python preprocess.py
-
+```
 4. To run the experiment with default parameters:
 ```
 $ cd codes
